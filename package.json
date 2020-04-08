@@ -30,7 +30,7 @@
     "domready": "^1.0.8",
     "express": "^4.15.3",
     "express-session": "^1.15.5",
-    "helmet": "^3.6.1",
+    "helmet": "^3.22.0",
     "joi": "^10.5.2",
     "lodash": "^4.17.13",
     "mithril": "^1.1.6",
