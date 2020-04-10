@@ -42,7 +42,7 @@
     "passport": "^0.4.1",
     "passport-http": "^0.3.0",
     "request": "^2.88.0",
-    "w3c-xmlhttprequest": "2.1.2"
+    "w3c-xmlhttprequest": "2.1.3"
   },
   "devDependencies": {
     "brfs": "^1.2.0",
