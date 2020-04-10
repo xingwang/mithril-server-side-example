@@ -28,7 +28,7 @@
     "browserify-middleware": "7.1.0",
     "compression": "^1.6.2",
     "domready": "^1.0.8",
-    "express": "^4.15.3",
+    "express": "^4.17.1",
     "express-session": "^1.17.0",
     "helmet": "^3.22.0",
     "joi": "^10.5.2",
