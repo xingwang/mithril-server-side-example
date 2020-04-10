@@ -37,7 +37,7 @@
     "mithril-j2c": "^0.1.3",
     "mithril-node-render": "^2.1.0",
     "moment": "^2.24.0",
-    "monk": "^6.0.1",
+    "monk": "^7.1.2",
     "morgan": "^1.9.1",
     "passport": "^0.4.1",
     "passport-http": "^0.3.0",
