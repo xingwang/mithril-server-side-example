@@ -31,7 +31,7 @@
     "express": "^4.18.1",
     "express-session": "^1.17.3",
     "helmet": "^5.1.1",
-    "joi": "^17.6.0",
+    "joi": "^17.6.1",
     "lodash": "^4.17.21",
     "mithril": "^2.2.2",
     "mithril-j2c": "^0.1.3",
